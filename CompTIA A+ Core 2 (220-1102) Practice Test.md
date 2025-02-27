@@ -102,9 +102,17 @@
     C. Console  
     D. Bash
     
-18. **[Short Answer] What command-line utility in Windows can be used to forcefully terminate a process by its name or process ID?**
-    
-19. **[Short Answer] Name one file system commonly used by Linux operating systems.** (For example, the default file system in many Linux distributions.)
+18. **What command-line utility in Windows can be used to forcefully terminate a process by its name or process ID**
+    A. taskkill
+    B. shutdown
+    C. netstat
+    D. chkdsk
+
+19. **Which file system is commonly used by Linux operating systems?**
+    A. NTFS
+    B. FAT32
+    C. ext4
+    D. HFS+
     
 20. **A Windows 10 PC is running very slowly and shows high disk and CPU usage, even when no programs are open. Dozens of programs launch at startup. Which built-in tool can help disable unnecessary startup applications?**  
     A. System Information (msinfo32)  
@@ -190,7 +198,11 @@
     C. Physically destroy or shred the drive.  
     D. Erase the partition and create a new one.
     
-34. **[Short Answer] What does the acronym “UPS” stand for in the context of computer power protection?**
+34. What does the acronym “UPS” stand for in the context of computer power protection?
+    A. Uninterruptible Power Supply
+    B. Universal Power Source
+    C. Ultimate Power System
+    D. Unregulated Power Supply
     
 35. **Which of the following is considered personally identifiable information (PII) that must be protected?**  
     A. A list of installed software on a PC  
@@ -354,7 +366,11 @@
     C. Tell the customer it’s not your responsibility to answer that.  
     D. Change the subject to something you do know.
     
-62. **[Short Answer] In the context of information security, what does the acronym “PII” stand for?**
+62. In the context of information security, what does the acronym “PII” stand for?
+    A. Personal Internet Identification
+    B. Personally Identifiable Information
+    C. Private Internal Infrastructure
+    D. Publicly Indexed Information
     
 63. **Which protocol is used for retrieving email messages from a mail server, while keeping the messages on the server so they can be synced across multiple devices?**  
     A. POP3  
@@ -482,7 +498,11 @@
     C. Download the missing DLL from the internet and put it in the system folder.  
     D. Ignore the error and press “OK.”
     
-84. **[Short Answer] What Windows utility is used to manually edit the system registry?**
+84. **What Windows utility is used to manually edit the system registry?**
+    A. msconfig
+    B. regedit
+    C. taskmgr
+    D. cmd
     
 85. **Which tool can be used to migrate user files and settings from one Windows PC to another (especially in an enterprise deployment scenario)?**  
     A. Windows Easy Transfer (for older Windows versions) / USMT  
@@ -514,7 +534,11 @@
     C. To compress files to save space  
     D. To monitor network traffic
     
-90. **[Short Answer] What term is used to describe unsolicited bulk email messages?**
+90. **What term is used to describe unsolicited bulk email messages?**
+    A. Spam
+    B. Phishing
+    C. Spoofing
+    D. Junkware
     
 
 ---
@@ -538,8 +562,8 @@
 15. B
 16. B
 17. A
-18. taskkill (use the **taskkill** command)
-19. ext4 (One example is **ext4**, the Fourth Extended File System)
+18. A
+19. C
 20. B
 21. B
 22. C
@@ -554,7 +578,7 @@
 31. B
 32. B
 33. C
-34. **Uninterruptible Power Supply**
+34. A
 35. B
 36. B
 37. A, B
@@ -582,7 +606,7 @@
 59. B
 60. A
 61. B
-62. **Personally Identifiable Information**
+62. B
 63. B
 64. B
 65. B
@@ -604,13 +628,13 @@
 81. A
 82. B
 83. B
-84. Regedit (Windows Registry Editor)
+84. B
 85. A
 86. B
 87. B
 88. B
 89. B
-90. **Spam**
+90. A
 
 ## Scoring and Grading Chart – Core 2
 
