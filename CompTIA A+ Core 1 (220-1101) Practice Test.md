@@ -291,8 +291,6 @@
     B. UEFI Secure Boot
     C. Remote Desktop Protocol (RDP)
     D. Virtual Machine Boot
-
-
     
 51. **A PC has one DVI and one HDMI port on its video card. The user wants to add a second monitor, but the second monitor only has a DVI input. What is the simplest way to connect this second monitor?**  
     A. Install a second video card with DVI  
@@ -588,7 +586,7 @@
 47. C
 48. C
 49. B
-50. PXE (Preboot Execution Environment)
+50. A
 51. B
 52. A, B
 53. C
