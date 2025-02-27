@@ -56,7 +56,11 @@
     C. Hybrid drive (SSHD)  
     D. M.2 SATA SSD
     
-11. **[Short Answer] In laser printing, what is the name of the component that fuses the toner to the paper?**
+11. **In laser printing, what is the name of the component that fuses the toner to the paper?**
+    A. Drum Unit
+    B. Transfer Roller
+    C. Fuser Assembly
+    D. Imaging Unit
     
 12. **A small office needs a network device that will provide IP addresses to hosts automatically. Which device on the network would perform this function?**  
     A. Switch  
@@ -282,7 +286,13 @@
     C. Lightning  
     D. Serial port
     
-50. **[Short Answer] What is the name of the feature that allows a computer to boot an operating system from a network server (without local storage media)?** (Hint: It is often enabled in BIOS/UEFI for network boot.)
+50. **What is the name of the feature that allows a computer to boot an operating system from a network server (without local storage media)?**
+    A. PXE (Preboot Execution Environment)
+    B. UEFI Secure Boot
+    C. Remote Desktop Protocol (RDP)
+    D. Virtual Machine Boot
+
+
     
 51. **A PC has one DVI and one HDMI port on its video card. The user wants to add a second monitor, but the second monitor only has a DVI input. What is the simplest way to connect this second monitor?**  
     A. Install a second video card with DVI  
@@ -482,7 +492,11 @@
     C. To improve the speed of the computer  
     D. To automatically save files if the power fails
     
-84. **[Short Answer] What does the acronym “RAM” stand for in computer terminology?**
+84. **What does the acronym “RAM” stand for in computer terminology?**
+    A. Random Access Memory
+    B. Read-Only Memory
+    C. Rapid Application Module
+    D. Runtime Allocation Memory
     
 85. **A computer’s clock resets to a default date whenever the PC is unplugged from power. Which component is MOST likely failing?**  
     A. Motherboard  
@@ -514,7 +528,11 @@
     C. The web browser is out of date.  
     D. The DHCP server is offline.
     
-90. **[Short Answer] What wireless technology enables smartphones to make contactless payments by simply tapping the phone on a compatible reader?**
+90. **What wireless technology enables smartphones to make contactless payments by simply tapping the phone on a compatible reader?**
+    A. Bluetooth
+    B. NFC
+    C. RFID
+    D. Wi-Fi Direct
     
 
 ---
@@ -531,7 +549,7 @@
 8. D
 9. C
 10. C
-11. Fuser (Fuser assembly)
+11. C
 12. B
 13. B
 14. D
@@ -604,13 +622,13 @@
 81. B
 82. B
 83. B
-84. **Random Access Memory**
+84. A
 85. B
 86. C
 87. B
 88. B
 89. A
-90. **NFC (Near Field Communication)**
+90. B
 
 ## Scoring and Grading Chart – Core 1
 
